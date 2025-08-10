@@ -1,0 +1,941 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\backgroundservices\\createlognotificationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\backgroundservices\\createlognotificationbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\validator\\logincomingmessagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\validator\\logincomingmessagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\wrappers\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\wrappers\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.domain\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|solutionrelative:taskmanagementserviceloging.domain\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\interfaces\\ilogincomingmessagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\interfaces\\ilogincomingmessagevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\taskmanagementserviceloging.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\taskmanagementserviceloging.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\infrastructure\\extensions\\configurationsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\infrastructure\\extensions\\configurationsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\interfaces\\iservicenotificationlogconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\interfaces\\iservicenotificationlogconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\messaging\\servicenotificationlogconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\messaging\\servicenotificationlogconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\messaging\\kafkaconsumerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\messaging\\kafkaconsumerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\infrastructure\\extensions\\opentelemetryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\infrastructure\\extensions\\opentelemetryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\taskmanagementserviceloging.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\backgroundservices\\backgroundservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\backgroundservices\\backgroundservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.domain\\taskmanagementserviceloging.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|solutionrelative:taskmanagementserviceloging.domain\\taskmanagementserviceloging.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\taskmanagementserviceloging.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\taskmanagementserviceloging.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\profiles\\logprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\profiles\\logprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\confuguration\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\confuguration\\kafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\messaging\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\messaging\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\confuguration\\createnotificationlogconsumeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\confuguration\\createnotificationlogconsumeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\interfaces\\ikafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\interfaces\\ikafkaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\infrastructure\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\infrastructure\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\infrastructure\\filters\\apiresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\infrastructure\\filters\\apiresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\controllers\\v1\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\controllers\\v1\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D327A9-A544-4C99-865D-A4E8E96FFD06}|TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj|solutionrelative:taskmanagementserviceloging\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\queries\\getpagedlistlog\\getpagedlistlogqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\queries\\getpagedlistlog\\getpagedlistlogqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\queries\\getpagedlistlog\\getpagedlistlogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\queries\\getpagedlistlog\\getpagedlistlogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\queries\\getlogbyid\\getlogbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\queries\\getlogbyid\\getlogbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\interfaces\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\interfaces\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\dtos\\log\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\dtos\\log\\logdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.domain\\entity\\logmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBC412A-B6C3-4E6D-A9AF-52DB72C193F0}|TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj|solutionrelative:taskmanagementserviceloging.domain\\entity\\logmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\queries\\getlogbyid\\getlogbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\queries\\getlogbyid\\getlogbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\commands\\deletelog\\deletelogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\commands\\deletelog\\deletelogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\commands\\createlog\\createlogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.infrastructure\\context\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F52FAB-8374-4649-9C58-0C2F5FC80952}|TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj|solutionrelative:taskmanagementserviceloging.infrastructure\\context\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\features\\commands\\deletelog\\deletelogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\features\\commands\\deletelog\\deletelogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\dtos\\log\\createlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\dtos\\log\\createlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|c:\\users\\loonyfox\\source\\repos\\taskmanagementservices\\taskmanagementserviceloging\\taskmanagementserviceloging\\taskmanagementserviceloging.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051ED09A-4DB5-400A-9E49-547E5AE76CA5}|TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj|solutionrelative:taskmanagementserviceloging.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044005}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Wrappers\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Wrappers\\ErrorCode.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Wrappers\\ErrorCode.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Wrappers\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:31:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogIncomingMessageValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Validator\\LogIncomingMessageValidator.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Validator\\LogIncomingMessageValidator.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Validator\\LogIncomingMessageValidator.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Validator\\LogIncomingMessageValidator.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:26:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Program.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Program.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:09:05.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:55:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:54:46.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogIncomingMessageValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\ILogIncomingMessageValidator.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Interfaces\\ILogIncomingMessageValidator.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\ILogIncomingMessageValidator.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Interfaces\\ILogIncomingMessageValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:40:00.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateLogNotificationBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\CreateLogNotificationBackgroundService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\CreateLogNotificationBackgroundService.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\CreateLogNotificationBackgroundService.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\CreateLogNotificationBackgroundService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:22:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceNotificationlogConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\ServiceNotificationlogConsumer.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Messaging\\ServiceNotificationlogConsumer.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\ServiceNotificationlogConsumer.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Messaging\\ServiceNotificationlogConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:53:34.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Domain\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\OutboxMessage.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Domain\\OutboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:42:42.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceNotificationlogConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IServiceNotificationlogConsumer.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Interfaces\\IServiceNotificationlogConsumer.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IServiceNotificationlogConsumer.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Interfaces\\IServiceNotificationlogConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:52:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskManagementServiceLoging.Application",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\TaskManagementServiceLoging.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T14:06:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurationsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Extensions\\ConfigurationsExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Infrastructure\\Extensions\\ConfigurationsExtensions.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Extensions\\ConfigurationsExtensions.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Infrastructure\\Extensions\\ConfigurationsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:12:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskManagementServiceLoging.WebApi",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj",
+              "RelativeToolTip": "TaskManagementServiceLoging\\TaskManagementServiceLoging.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T14:37:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:02:36.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KafkaConsumerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumerFactory.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumerFactory.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumerFactory.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:14:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackgroundServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\BackgroundServiceBase.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\BackgroundServiceBase.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\BackgroundServiceBase.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\BackgroundServices\\BackgroundServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:27:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OpenTelemetryExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Extensions\\OpenTelemetryExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Infrastructure\\Extensions\\OpenTelemetryExtensions.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Extensions\\OpenTelemetryExtensions.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Infrastructure\\Extensions\\OpenTelemetryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:09:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\appsettings.json",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\appsettings.json",
+              "RelativeToolTip": "TaskManagementServiceLoging\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T15:12:56.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateLogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandHandler.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:19:36.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskManagementServiceLoging.Domain",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj",
+              "RelativeToolTip": "TaskManagementServiceLoging.Domain\\TaskManagementServiceLoging.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T13:56:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskManagementServiceLoging.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\TaskManagementServiceLoging.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T13:59:58.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:08:01.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KafkaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Confuguration\\KafkaConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Confuguration\\KafkaConfig.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Confuguration\\KafkaConfig.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Confuguration\\KafkaConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:47:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumer.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Messaging\\KafkaConsumer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:57:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Profiles\\LogProfile.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Profiles\\LogProfile.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Profiles\\LogProfile.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Profiles\\LogProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:10:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250810160848_intialBase.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160848_intialBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:08:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250810160506_intialBase.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Migrations\\20250810160506_intialBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:05:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateNotificationLogConsumerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Confuguration\\CreateNotificationLogConsumerOptions.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Confuguration\\CreateNotificationLogConsumerOptions.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Confuguration\\CreateNotificationLogConsumerOptions.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Confuguration\\CreateNotificationLogConsumerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:49:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IKafkaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IKafkaConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Interfaces\\IKafkaConfig.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IKafkaConfig.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Interfaces\\IKafkaConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:48:12.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Infrastructure\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:08:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApiResultFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Filters\\ApiResultFilterAttribute.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Infrastructure\\Filters\\ApiResultFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Infrastructure\\Filters\\ApiResultFilterAttribute.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Infrastructure\\Filters\\ApiResultFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:07:50.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:06:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetPagedListLogQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQueryHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQueryHandler.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQueryHandler.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:50:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Wrappers\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Wrappers\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Wrappers\\PagedResponse.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Wrappers\\PagedResponse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:04:25.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateLogCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandValidator.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandValidator.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandValidator.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:18:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetPagedListLogQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQuery.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQuery.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQuery.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetPagedListLog\\GetPagedListLogQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:50:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Controllers\\v1\\LogController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging\\Controllers\\v1\\LogController.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\Controllers\\v1\\LogController.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging\\Controllers\\v1\\LogController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:38:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Repositories\\LogRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Repositories\\LogRepository.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Repositories\\LogRepository.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Repositories\\LogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:32:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\Repositories\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Interfaces\\Repositories\\ILogRepository.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\Repositories\\ILogRepository.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Interfaces\\Repositories\\ILogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:08:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogDto.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\DTOs\\Log\\LogDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\DTOs\\Log\\LogDto.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\DTOs\\Log\\LogDto.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\DTOs\\Log\\LogDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:12:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LogModel.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\Entity\\LogModel.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Domain\\Entity\\LogModel.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Domain\\Entity\\LogModel.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Domain\\Entity\\LogModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:58:24.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetLogByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQueryHandler.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:43:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetLogByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQuery.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQuery.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Queries\\GetLogById\\GetLogByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:43:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Context\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Infrastructure\\Context\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Infrastructure\\Context\\UnitOfWork.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Infrastructure\\Context\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:05:33.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteLogCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommandHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommandHandler.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommandHandler.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:28:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateLogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Commands\\CreateLog\\CreateLogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:17:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteLogCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommand.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommand.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommand.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Features\\Commands\\DeleteLog\\DeleteLogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:28:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\DTOs\\Log\\CreateLogDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\DTOs\\Log\\CreateLogDto.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\DTOs\\Log\\CreateLogDto.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\DTOs\\Log\\CreateLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:12:10.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TaskManagementServiceLoging.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LoonyFox\\source\\repos\\TaskManagementServices\\TaskManagementServiceLoging\\TaskManagementServiceLoging\\TaskManagementServiceLoging.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "TaskManagementServiceLoging.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:06:41.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 338,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1456,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

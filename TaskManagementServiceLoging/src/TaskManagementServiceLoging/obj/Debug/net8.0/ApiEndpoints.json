@@ -1,0 +1,116 @@
+[
+  {
+    "ContainingType": "TaskManagementServiceLoging.WebApi.Controllers.v1.LogController",
+    "Method": "CreateTask",
+    "RelativePath": "api/v1/Log/CreateTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TaskManagementServiceLoging.Application.Features.Commands.CreateLog.CreateLogCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskManagementServiceLoging.Application.Wrappers.BaseResult\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskManagementServiceLoging.WebApi.Controllers.v1.LogController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/v1/Log/DeleteTask",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskManagementServiceLoging.Application.Wrappers.BaseResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskManagementServiceLoging.WebApi.Controllers.v1.LogController",
+    "Method": "GetPagedListTask",
+    "RelativePath": "api/v1/Log/GetPagedListTask",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskManagementServiceLoging.Application.Wrappers.PagedResponse\u00601[[TaskManagementServiceLoging.Application.DTOs.Log.LogDto, TaskManagementServiceLoging.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TaskManagementServiceLoging.WebApi.Controllers.v1.LogController",
+    "Method": "GetTaskById",
+    "RelativePath": "api/v1/Log/GetTaskById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TaskManagementServiceLoging.Application.Wrappers.BaseResult\u00601[[TaskManagementServiceLoging.Application.DTOs.Log.LogDto, TaskManagementServiceLoging.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
