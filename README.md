@@ -29,7 +29,7 @@
     }
   },
   "Http": {
-    "BaseUrl": "http://localhost:5022",
+    "BaseUrl": "http://localhost:5258",
     "CreateLogRecordEndpoint": "/api/logs/create"
   }
 }
