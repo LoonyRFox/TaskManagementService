@@ -100,7 +100,26 @@
 docker-compose build
 docker-compose up
 ```
-
+### Порядок работы
+  1. Перейти в браузре на страницу http://localhost:5250/swagger
+  2. Выполнить запрос POST /api/v1/Account/Start 
+     -- Будет создан случайный пользователь и сгенерирован BjwToken
+```json
+{
+  "data": {
+    "id": "01989751-f6eb-7d0b-b707-9a87fb8ef745",
+    "userName": "pLIpWTw",
+    "email": null,
+    "roles": [],
+    "isVerified": false,
+    "jwToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjAxOTg5NzUxLWY2ZWItN2QwYi1iNzA3LTlhODdmYjhlZjc0NSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJwTElwV1R3IiwiQXNwTmV0LklkZW50aXR5LlNlY3VyaXR5U3RhbXAiOiJLWFhWNDRHR1RVVkxJM1dOV0YyREhEVjU1NlVDQVJXTiIsImV4cCI6MTc1NDg4NjI4OCwiaXNzIjoiQ29yZUlkZW50aXR5IiwiYXVkIjoiQ29yZUlkZW50aXR5VXNlciJ9.A5B8kowJn5mTH8y_z6FbIfW29pQTqqi12vVlrI0rRiU"
+  },
+  "success": true,
+  "errors": null
+}
+```
+  3. Авторизоваться при помощи полученного токена
+  4. Можно выполнять действия  с Task (Добавление, Изменение, Удаление, Извлечение) 😊
 ## docker-compose.yml
 
 ```yaml
