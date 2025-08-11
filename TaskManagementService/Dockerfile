@@ -19,14 +19,12 @@ RUN dotnet restore "src/TaskManagementService/TaskManagementService.WebApi.cspro
 COPY src/ ./src/
 RUN dotnet build "src/TaskManagementService/TaskManagementService.WebApi.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
 RUN dotnet publish "src/TaskManagementService/TaskManagementService.WebApi.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
-
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 
-ENTRYPOINT ["dotnet", "TaskManagementService.dll"]
+ENTRYPOINT ["dotnet", "TaskManagementService.WebApi.dll"]

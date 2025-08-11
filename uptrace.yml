@@ -1,0 +1,17 @@
+server:
+  # HTTP интерфейс (UI) и API
+  http_listen_addr: 0.0.0.0:14318
+
+  # gRPC сервер для приема трассировок
+  grpc_listen_addr: 0.0.0.0:14417
+
+storage:
+  # Путь для хранения данных внутри контейнера
+  pg_dsn: postgres://uptrace:pgSte@postgres:5432/uptrace?sslmode=disable
+  path: /data/uptrace
+
+logging:
+  level: info
+
+traces:
+  max_events_per_span: 1000

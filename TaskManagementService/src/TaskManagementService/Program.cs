@@ -58,15 +58,14 @@ using (var scope = app.Services.CreateScope())
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    var url = "http://localhost:5250"; // укажи здесь свой адрес приложения, если другой
-    var swaggerUrl = $"{url}";
+    var url = "http://localhost:5250/swagger";
 
     // Запускаем браузер с Swagger UI
     try
     {
         System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
         {
-            FileName = swaggerUrl,
+            FileName = url,
             UseShellExecute = true
         });
     }
