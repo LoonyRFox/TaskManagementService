@@ -70,3 +70,4 @@ C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Resources\obj\Debug\net8.0\refint\TaskManagementService.Resources.dll
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Resources\obj\Debug\net8.0\TaskManagementService.Resources.pdb
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Resources\obj\Debug\net8.0\ref\TaskManagementService.Resources.dll
+C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Resources\obj\Debug\net8.0\TaskManagementService.Resources.sourcelink.json

@@ -55,3 +55,4 @@ C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Messaging\obj\Debug\net8.0\refint\TaskManagementService.Messaging.dll
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Messaging\obj\Debug\net8.0\TaskManagementService.Messaging.pdb
 C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Messaging\obj\Debug\net8.0\ref\TaskManagementService.Messaging.dll
+C:\Users\LoonyFox\source\repos\TaskManagementServices\TaskManagementService\src\TaskManagementService.Messaging\obj\Debug\net8.0\TaskManagementService.Messaging.sourcelink.json
