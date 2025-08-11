@@ -101,7 +101,7 @@ docker-compose build
 docker-compose up
 ```
 ### Порядок работы
-  1. Перейти в браузре на страницу http://localhost:5250/swagger
+  1. Перейти в браузере на страницу http://localhost:5250/swagger
   2. Выполнить запрос POST /api/v1/Account/Start 
      -- Будет создан случайный пользователь и сгенерирован BjwToken
 ```json
